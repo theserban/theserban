@@ -1,4 +1,4 @@
-theserban.com
+<a href="https://theserban.com">Website</a> - <a href="https://www.buymeacoffee.com/theserban">Support me</a>
 
 Designer by training, entrepreneur by choice, and a relentless explorer at heart. I juggle my passions for technology, music, and endless learning to bring a unique twist to everything I do. In a nutshell, I'm here to blend creativity with purpose, and have a blast while doing it.
 
